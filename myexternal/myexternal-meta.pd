@@ -1,0 +1,14 @@
+#N canvas 71 64 451 345 10;
+#X text 16 34 LICENSE GPL 3;
+#X text 16 16 KEYWORDS what your external does?;
+#X text 16 52 DESCRIPTION what your external is?;
+#X text 16 83 INLET_0 signal or control?;
+#X text 17 112 OUTLET_0 signal or control?;
+#X text 16 173 LIBRARY name;
+#X text 16 191 VERSION v.?;
+#X text 16 209 AUTHOR your name;
+#X text 16 227 RELEASE_DATE year? month? day?;
+#X text 16 245 EMAIL your email;
+#X text 16 263 WEBSITE your website;
+#X text 16 307 HELP_PATCH_AUTHORS who created help patch?;
+#X text 214 97 --> how many inlets/outlets?;

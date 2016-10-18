@@ -1,0 +1,8 @@
+#N canvas 326 139 450 300 10;
+#X text 32 12 provide a help patch with a small example;
+#X obj 37 74 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144 -1
+-1;
+#X obj 37 96 myexternal;
+#X text 32 26 you need a help patch and a meta patch to compile for
+external properly;
+#X connect 1 0 2 0;
