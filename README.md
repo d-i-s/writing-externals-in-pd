@@ -14,4 +14,9 @@ or an IDE (Xcode, Code::Blocks, ...: https://en.wikipedia.org/wiki/Comparison_of
 
 Actually, the best solution is to install make and use the provided makefile template. Make here: https://en.wikipedia.org/wiki/Make_(software) .
 
+When you have 1+2+3+make, open the terminal. Go to emufest/myexternal folder (that is probably in Download folder) and then type make. For example:
+$ cd Download/emufest/myexternal/ (assuming you are in home and this folder is in download)
+$ make
+If everything works, you should compile myexternal properly.
+
 If you have questions, open an issue or send me an email and I will do it for you: mm dot markidis at gmail dot com .
