@@ -5,6 +5,7 @@ This repository provides a 'myexternal' folder where you can find the simplest e
 Before EMUFest 2016, you *must* compile it. You need:
 
 1) a text editor (Emacs, Textedit, vim, gedit, notepad, ...: https://en.wikipedia.org/wiki/List_of_text_editors )
+
 2) a compiler (GCC, clang, ...: https://en.wikipedia.org/wiki/List_of_compilers#C_compilers )
 
 or an IDE (Xcode, Code::Blocks, ...: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments#C.2FC.2B.2B )
