@@ -4,9 +4,11 @@ This repository provides a 'myexternal' folder where you can find the simplest e
 
 Before EMUFest 2016, you *must* compile it. You need:
 
-1) a text editor (Emacs, Textedit, vim, gedit, notepad, ...: https://en.wikipedia.org/wiki/List_of_text_editors )
+1) Pd. Please downaload the lastest Vanilla version (0.47.1) from here: http://msp.ucsd.edu/software.html . We will use Vanilla; *no Pd Extended*.
 
-2) a compiler (GCC, clang, ...: https://en.wikipedia.org/wiki/List_of_compilers#C_compilers )
+2) a text editor (Emacs, Textedit, vim, gedit, notepad, ...: https://en.wikipedia.org/wiki/List_of_text_editors )
+
+3) a compiler (GCC, clang, ...: https://en.wikipedia.org/wiki/List_of_compilers#C_compilers )
 
 or an IDE (Xcode, Code::Blocks, ...: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments#C.2FC.2B.2B )
 
