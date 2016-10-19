@@ -2,9 +2,10 @@
 Available materials for EMUFest 2016, lecture on October 26th, Rome.
 This repository provides a 'myexternal' folder where you can find the simplest external you can do in Pd.
 
-Before EMUFest 2016, you *must* compile it. You need:
+Before EMUFest 2016, you *must* compile it. I don't explain how to do it during the lecture, so you have to compile 'myexternal' by yourself.
+You need:
 
-1) Pd. Please download the lastest Vanilla version (0.47.1) from here: http://msp.ucsd.edu/software.html . We will use Vanilla; *no Pd Extended*.
+1) Pd. Please download the lastest Vanilla version (0.47.1) from here: http://msp.ucsd.edu/software.html . We use Vanilla; *no Pd Extended*.
 
 2) a text editor (Emacs, Textedit, vim, gedit, notepad, ...: https://en.wikipedia.org/wiki/List_of_text_editors )
 
@@ -22,6 +23,6 @@ $ cd Download/emufest-master/myexternal/ (assuming you are in home and this fold
 
 $ make
 
-If everything works, you should compile myexternal properly.
+If everything works, you should compile 'myexternal' properly.
 
-If you have questions, open an issue or send me an email and I will do it for you: mm dot markidis at gmail dot com .
+If you have questions, open an issue or send me an email and I will do it for you: mm dot markidis at gmail dot com . Join the Facebook group: Pure Data Italia.
