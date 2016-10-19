@@ -98,6 +98,7 @@ ifeq ($(UNAME),Darwin)
     STRIP = strip -x
     DISTBINDIR=$(DISTDIR)-$(OS)
   else # Mac OS X
+    PD_INCLUDE = /Applications/Pd.app/Contents/Resources/src
     SOURCES += $(SOURCES_macosx)
     EXTENSION = pd_darwin
     SHARED_EXTENSION = dylib
