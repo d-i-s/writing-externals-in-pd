@@ -4,7 +4,7 @@ This repository provides a 'myexternal' folder where you can find the simplest e
 
 Before EMUFest 2016, you *must* compile it. You need:
 
-1) Pd. Please downaload the lastest Vanilla version (0.47.1) from here: http://msp.ucsd.edu/software.html . We will use Vanilla; *no Pd Extended*.
+1) Pd. Please download the lastest Vanilla version (0.47.1) from here: http://msp.ucsd.edu/software.html . We will use Vanilla; *no Pd Extended*.
 
 2) a text editor (Emacs, Textedit, vim, gedit, notepad, ...: https://en.wikipedia.org/wiki/List_of_text_editors )
 
